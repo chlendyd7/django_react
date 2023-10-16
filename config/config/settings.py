@@ -39,7 +39,11 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'instagram'
+    'bootstrap4',
+    'django_extensions',
+    'debug_toolbar',
+
+    'instagram',
 ]
 
 MIDDLEWARE = [
