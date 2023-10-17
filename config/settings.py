@@ -41,9 +41,10 @@ INSTALLED_APPS = [
 
     'bootstrap4',
     'django_extensions',
-    'debug_toolbar',
+    # 'debug_toolbar',
 
     'instagram',
+    'blog1',
 ]
 
 MIDDLEWARE = [
